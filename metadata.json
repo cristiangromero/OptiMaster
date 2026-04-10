@@ -1,0 +1,5 @@
+{
+  "name": "OptiMaster: Investigación Operativa",
+  "description": "Una herramienta intuitiva para resolver problemas de investigación operativa, incluyendo programación lineal (Simplex y Gráfico), transporte y más.",
+  "requestFramePermissions": []
+}
